@@ -8,3 +8,7 @@ body {
     background-size: 100% 100%;
     text-align: center;
   }
+
+  .no-bullet {
+    list-style-type: none;
+  }
